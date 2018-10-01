@@ -63,5 +63,3 @@ def scrap_films(filename):
         awards_file.write(awards_counter)
         awards_file.write('\n\n')
         awards_file.close()
-
-scrap_films('movies.txt')
