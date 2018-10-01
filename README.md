@@ -9,4 +9,12 @@ Information about every movie is saved in a .txt file.
 3rd: Genre  
 4th: Director  
 5th: Date of release  
-6th: Number of awards
+6th: Number of awards  
+
+Example output:  
+Skazani na Shawshank  
+The Shawshank Redemption  
+Dramat  
+Frank Darabont  
+ 16 kwietnia 1995  
+6
