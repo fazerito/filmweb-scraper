@@ -1,5 +1,5 @@
 import requests, bs4
-site_file = open('films.html', encoding="utf8")
+site_file = open('movies.html', encoding="utf8")
 soup_obj = bs4.BeautifulSoup(site_file.read(), "html.parser")
 
 def scrap_films(filename):
