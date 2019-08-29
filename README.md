@@ -11,7 +11,7 @@ Information about every movie is saved in a .txt file.
 5th: Date of release  
 6th: Number of awards  
 
-Example output:  
+**Example output:**  
 Skazani na Shawshank  
 The Shawshank Redemption  
 Dramat  
